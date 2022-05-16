@@ -1,0 +1,39 @@
+Versione: 1
+Edizione: 27
+
+
+pyinstaller "C:\Users\coand\Google Drive\PC\Immagini\Switcher\py\prog007.py" --noconsole --onefile
+pyinstaller "C:\Users\coand\Google Drive\PC\Immagini\Switcher\py\prog013.py" --distpath "C:\Users\coand\Google Drive\PC\Immagini\Switcher\ExeCreati" --noconsole --onefile
+pyinstaller "C:\Users\coand\Google Drive\PC\Immagini\Switcher\py\prog014.py" --distpath "C:\Users\coand\Google Drive\PC\Immagini\Switcher\ExeCreati" --noconsole --onefile --windowed --icon="C:\Users\coand\Google Drive\PC\Immagini\Switcher\Icon\icons8-monitor-64.ico"
+
+pyinstaller "C:\Users\coand\Google Drive\PC\Immagini\Switcher\py\FilePy\XXXXX" --distpath "C:\Users\coand\Google Drive\PC\Immagini\Switcher\ExeCreati" --noconsole --onefile --windowed --icon="C:\Users\coand\Google Drive\PC\Immagini\Switcher\Icon\icons8-monitor-64.ico"
+
+
+Log creazione py
+nome prog.    	-------->   data creazioneSwticher_1_65	-------->	2022-03-13T18:20:46.638128
+Swticher_1_1	-------->	2022-03-13T18:21:04.188602
+Swticher_1_2	-------->	2022-03-16T12:28:05.879786
+Swticher_1_3	-------->	2022-03-16T12:32:03.222833
+Swticher_1_4	-------->	2022-03-16T12:32:17.402636
+Swticher_1_5	-------->	2022-03-16T12:36:33.156766
+Swticher_1_6	-------->	2022-03-19T11:35:20.050957
+Swticher_1_7	-------->	2022-03-20T10:40:44.643945
+Swticher_1_8	-------->	2022-03-20T17:32:30.663592
+Swticher_1_9	-------->	2022-03-22T15:15:42.787108
+Swticher_1_10	-------->	2022-03-25T15:24:12.061638
+Swticher_1_11	-------->	2022-03-30T11:07:45.855352
+Swticher_1_12	-------->	2022-03-30T11:21:07.650140
+Swticher_1_14	-------->	2022-03-30T16:38:32.343416
+Swticher_1_15	-------->	2022-03-30T16:39:47.624400
+Swticher_1_16	-------->	2022-03-30T17:29:59.226049
+Swticher_1_17	-------->	2022-03-31T09:42:29.152382
+Swticher_1_18	-------->	2022-04-04T20:01:19.719445
+Swticher_1_19	-------->	2022-04-08T16:13:38.873792
+Swticher_1_20	-------->	2022-04-08T16:26:28.053631
+Swticher_1_21	-------->	2022-04-08T16:46:59.334972
+Swticher_1_22	-------->	2022-04-15T14:08:34.610421
+Swticher_1_23	-------->	2022-04-18T18:38:06.726074
+Swticher_1_24	-------->	2022-05-03T14:24:58.894047
+Swticher_1_25	-------->	2022-05-03T14:48:59.904689
+Swticher_1_26	-------->	2022-05-03T14:51:30.452771
+Swticher_1_27	-------->	2022-05-03T15:05:54.110642
